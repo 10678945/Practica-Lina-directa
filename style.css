@@ -1,0 +1,45 @@
+img.img{
+    position: relative;
+    left: 350px;
+}
+
+h2.h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(56, 56, 56);
+}
+
+div.A{
+    text-align: center;
+    color: gray;
+}
+
+input.B{
+    position: relative;
+    top: -20px;
+}
+
+span.I{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+a.Enlace{
+    color: red;
+    position: relative;
+    top: -10px;
+    left: 387px
+    
+    
+}
+
+p.D{
+    text-align: center;
+    position: relative;
+    top: -20px;
+    color: gray;
+}
+
+div.H{
+    text-align: center;
+}
