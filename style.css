@@ -42,4 +42,12 @@ p.D{
 
 div.H{
     text-align: center;
+    border: 30px;
+    color: red;
+}
+
+input.T:hover{
+    text-align: center;
+    
+    color: red;
 }
